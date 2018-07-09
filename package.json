@@ -1,0 +1,24 @@
+{
+  "name": "collector21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lillialskye/collector21.git"
+  },
+  "author": "Tiffany Robbins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lillialskye/collector21/issues"
+  },
+  "homepage": "https://github.com/lillialskye/collector21#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "react": "^16.4.1",
+    "react-router": "^4.3.1"
+  }
+}
