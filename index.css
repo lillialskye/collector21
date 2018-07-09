@@ -1,0 +1,37 @@
+body {
+margin: 0;
+font-family: :sans-serif;
+background-color: #ddffdd;
+}
+
+
+.div1
+ {
+	width: 200px;
+	height: 200px;
+	background-color: #dcd0ff;
+	border: solid;
+	padding: 5px;
+	margin: 10px;
+	float: left;
+}
+.div2
+ {
+	width: 200px;
+	height: 200px;
+	background-color: #dcd0ff;
+	border: solid;
+	padding: 5px;
+	margin: 10px;
+	float: left;
+}
+.div3
+ {
+	width: 200px;
+	height: 200px;
+	background-color: #dcd0ff;
+	border: solid;
+	padding: 5px;
+	margin: 10px;
+	float: left;
+}
